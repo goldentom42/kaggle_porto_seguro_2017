@@ -33,3 +33,15 @@ Stacking was done using the linear stacker available [here](https://github.com/g
 ###How to build the solution
 Simply clone the repository and run ./build_solution.sh
 
+###Dependencies
+- Python 3.6
+- Scikit-learn
+- Pandas
+- Keras with Theano backend
+- LightGBM 0.6
+- XGBoost 2.0.7
+- LibFFM executables 
+- https://github.com/goldentom42/py_ml_utils
+- https://github.com/goldentom42/predictor_stacker
+
+

@@ -1,0 +1,1 @@
+This is where all prediction files are saved for future use by the linear stacker
