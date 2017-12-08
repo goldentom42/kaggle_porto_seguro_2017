@@ -1,6 +1,6 @@
-##Porto Seguro's Safe Driver Challenge hosted by Kaggle
+## Porto Seguro's Safe Driver Challenge hosted by Kaggle
 
-###Introduction
+### Introduction
 In late 2017, Kaggle and Porto Seguro, one of Brazil’s largest auto and homeowner 
 insurance companies, organized a competition where kagglers were challenged to build
 a model that predicts the probability that a driver will initiate an auto insurance 
@@ -11,7 +11,7 @@ their prices, and hopefully make auto insurance coverage more accessible to more
 drivers.
 
 
-###Models
+### Models
 In this competition I managed to finish at 33rd rank over 5000+ teams. My solution 
 was based on the following set of models:
 
@@ -30,10 +30,10 @@ performed using my [py_ml_utils/feature_selector package](https://github.com/gol
 
 Stacking was done using the linear stacker available [here](https://github.com/goldentom42/predictor_stacker)
 
-###How to build the solution
+### How to build the solution
 Simply clone the repository and run ./build_solution.sh
 
-###Dependencies
+### Dependencies
 - Python 3.6
 - Scikit-learn
 - Pandas
